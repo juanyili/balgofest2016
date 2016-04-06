@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by mac on 4/3/16.
+ * Created by Wanyi and Elizabeth on 4/3/16.
  */
 public class buffalo {
 
